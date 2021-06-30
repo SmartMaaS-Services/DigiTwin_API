@@ -1,0 +1,20 @@
+[
+    {
+        "id": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "type": "OffStreetParking",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "Parkplatz",
+        "description": "Parkplatz Bahnhof Oppendorf",
+        "category": ["public", "free", "freeAccess"],
+        "chargeType": ["free"],
+        "allowedVehicleType": ["car"],
+        "refParkingSpot": [],
+        "totalSpotNumber": 20,
+        "availableSpotNumber": 20,
+        "occupiedSpotNumber": 0,
+        "occupancy": 0.0
+    }
+]

@@ -1,0 +1,6 @@
+*.ca-bundle
+*.pem
+*.log
+*.crt
+kubernetes/
+.gitlab-ci.yml

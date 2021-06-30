@@ -1,0 +1,20 @@
+{
+  "name": "digitwin-api",
+  "version": "1.0.0",
+  "description": "Digital Twin API",
+  "main": "digitwin-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prof. Dr. Michael Prange",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.33"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

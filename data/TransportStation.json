@@ -1,0 +1,30 @@
+[
+    {
+        "id": "urn:ngsi:TransportStation:KVG:284",
+        "type": "TransportStation",
+        "name": "Bahnhof Oppendorf",
+        "description": "KVG Bushaltestelle Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208553, 54.326222]
+        },
+        "stationType": "bus",
+        "locationType": "1",
+        "dateLastReported": "2021-03-01T00:00:00.00Z",
+        "dateObserved": "2021-03-01T00:00:00.00Z"
+    },
+    {
+        "id": "urn:ngsi:TransportStation:DB:08004",
+        "type": "TransportStation",
+        "name": "Kiel-Oppendorf",
+        "description": "DB Bahnstation Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208855, 54.326332]
+        },
+        "stationType": "train",
+        "locationType": "1",
+        "dateLastReported": "2021-03-01T00:00:00.00Z",
+        "dateObserved": "2021-03-01T00:00:00.00Z"
+    }
+]

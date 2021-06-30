@@ -1,0 +1,16 @@
+[
+    {
+        "id": "urn:ngsi:WeatherObserved:KielRegion:Oppendorf",
+        "type": "WeatherObserved",
+        "name": "Wetter",
+        "description": "Wetter Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208026, 54.326155]
+        },
+        "dateObserved": "2021-03-01T01:02:03.00Z",
+        "atmosphericPressure": 1013.25,
+        "temperature": 23.45,
+        "refDevice": ""
+    }
+]

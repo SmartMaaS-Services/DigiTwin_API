@@ -1,0 +1,17 @@
+[
+    {
+        "id": "urn:ngsi:BikeHireDockingStation:KielRegion:20050",
+        "type": "BikeHireDockingStation",
+        "name": "Bahnhof Oppendorf",
+        "description": "Sprottenflotte",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.207911, 54.326055]
+        },
+        "provider": "KielRegion",
+        "availableBikeNumber": 6,
+        "totalSlotNumber": 0,
+        "freeSlotNumber": 0,
+        "status": "working"
+    }
+]

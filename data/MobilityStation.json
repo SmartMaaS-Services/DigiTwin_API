@@ -1,0 +1,13 @@
+[
+    {
+        "id": "urn:ngsi:MobilityStation:KielRegion:Oppendorf",
+        "type": "MobilityStation",
+        "name": "Kiel - Bahnhof Oppendorf",
+        "description": "Mobilitätsstation Kiel - Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.2086699, 54.3262973]
+        },
+        "refMobilityRegion": "urn:ngsi:MobilityRegion:KielRegion"
+    }
+]

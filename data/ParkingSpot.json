@@ -1,0 +1,282 @@
+[
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:000",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-1",
+        "description": "Parkplatz A-1 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:001",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-2",
+        "description": "Parkplatz A-2 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:002",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-3",
+        "description": "Parkplatz A-3 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:003",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-4",
+        "description": "Parkplatz A-4 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:004",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-5",
+        "description": "Parkplatz A-5 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:005",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-6",
+        "description": "Parkplatz A-6 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:006",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-7",
+        "description": "Parkplatz A-7 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:007",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-8",
+        "description": "Parkplatz A-8 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:008",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-9",
+        "description": "Parkplatz A-9 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:009",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-10",
+        "description": "Parkplatz A-10 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:010",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-11",
+        "description": "Parkplatz A-11 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:011",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-12",
+        "description": "Parkplatz A-12 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:012",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-13",
+        "description": "Parkplatz A-13 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:013",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-14",
+        "description": "Parkplatz A-14 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:014",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-15",
+        "description": "Parkplatz A-15 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:015",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-16",
+        "description": "Parkplatz A-16 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:016",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-17",
+        "description": "Parkplatz A-17 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:017",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-18",
+        "description": "Parkplatz A-18 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:018",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "A-19",
+        "description": "Parkplatz A-19 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    },
+    {
+        "id": "urn:ngsi:ParkingSpot:KielRegion:Oppendorf:019",
+        "type": "ParkingSpot",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "name": "S-1",
+        "description": "Parkplatz S-1 Bahnhof Oppendorf",
+        "refParkingSite": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf",
+        "category": ["offStreet"],
+        "status": "free",
+        "refDevice": ""
+    }
+]

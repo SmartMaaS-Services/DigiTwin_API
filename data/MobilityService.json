@@ -1,0 +1,80 @@
+[
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:Parking",
+        "type": "MobilityService",
+        "name": "Parkplatz",
+        "description": "Parkplatz Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208399, 54.326328]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegion:Oppendorf",
+        "service": "/parking/offstreet",
+        "refServiceProvider": "urn:ngsi:OffStreetParking:KielRegion:Oppendorf"
+    },
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:BikeHire",
+        "type": "MobilityService",
+        "name": "Sprottenflotte",
+        "description": "Sprottenflotte Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.207911, 54.326055]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegionOppendorf",
+        "service": "/transportation/bikehiredockingstations",
+        "refServiceProvider": "urn:ngsi:BikeHireDockingStation:KielRegion:20050"
+    },
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:Bus",
+        "type": "MobilityService",
+        "name": "Bushaltestelle",
+        "description": "KVG Bushaltestelle Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208553, 54.326222]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegionOppendorf",
+        "service": "/transportation/transportstations",
+        "refServiceProvider": "urn:ngsi:PublicTransportStop:KVG:284"
+    },
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:Train",
+        "type": "MobilityService",
+        "name": "Bahnstation",
+        "description": "DB Bahnstation Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208855, 54.326332]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegionOppendorf",
+        "service": "/transportation/transportstations",
+        "refServiceProvider": ""
+    },
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:Wheather",
+        "type": "MobilityService",
+        "name": "Wetter",
+        "description": "Infoservice Wetter Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208005, 54.326238]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegionOppendorf",
+        "service": "/info/weather",
+        "refServiceProvider": "urn:ngsi:WeatherObserved:KielRegion:Oppendorf"
+    },
+    {
+        "id": "urn:ngsi:MobilityService:KielRegion:Oppendorf:AirQuality",
+        "type": "MobilityService",
+        "name": "Luftqualität",
+        "description": "Infoservice Luftqualität Bahnhof Oppendorf",
+        "location": {
+            "type": "Point",
+            "coordinates": [10.208026, 54.326155]
+        },
+        "refMobilityStation": "urn:ngsi:MobilityStation:KielRegionOppendorf",
+        "service": "/info/airquality",
+        "refServiceProvider": "urn:ngsi:AirQualityObserved:KielRegion:Oppendorf"
+    }
+]
